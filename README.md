@@ -18,3 +18,5 @@ Sistema de controle de tickets criado no trabalho final do curso Desenvolvimento
 ![img4](https://user-images.githubusercontent.com/109548564/235265245-e23ba0e5-9fd2-4ba7-92ac-676cfb589f8d.PNG)
 ##
 ![img5](https://user-images.githubusercontent.com/109548564/235265246-ea145fa4-f212-4e58-a03b-603b377185ae.PNG)
+##
+![CASOS DE USO drawio](https://user-images.githubusercontent.com/109548564/235265863-bf8adddf-6891-4032-8a5a-499c820b3e32.png)
