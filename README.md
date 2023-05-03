@@ -1,5 +1,5 @@
 ## ⚙️Sistema CRM 
-Sistema de controle de tickets criado no trabalho final do curso Desenvolvimento de sistemas.
+Sistema de controle de tickets criado no trabalho final do curso Desenvolvimento de sistemas
 <br> <br>
 ✅Estrutura MVC <br>
 ✅Metodologias ágeis <br>
