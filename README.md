@@ -1,9 +1,9 @@
 ## ⚙️*Sistema CRM* 
-✅Estrutura MVC <br>
-✅Metodologias ágeis <br>
-✅Diagramas UML <br>
-✅Níveis de acesso <br>
-✅PHP, MySQL, JavaScript, API's
+>✅Estrutura MVC <br>
+>✅Metodologias ágeis <br>
+>✅Diagramas UML <br>
+>✅Níveis de acesso <br>
+>✅PHP, MySQL, JavaScript, API's
 
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=divinoSabor_mvc"/>
