@@ -1,9 +1,22 @@
-## ⚙️*Sistema CRM* 
->✅Estrutura MVC <br>
->✅Metodologias ágeis <br>
->✅Diagramas UML <br>
->✅Níveis de acesso <br>
->✅PHP, MySQL, JavaScript, API's
+### <p align='center'> ![logo_menu](https://github.com/fabioVitorio/barber_shop/assets/109548564/c33dca05-06d3-452c-a6bc-479e044ccc75) </p>
+<br>
+<p align='center'> Control system for opening and managing tickets and customers for a ceremonial buffet <br></p>
+
+##
+### ⚙️ Installation
+```bash
+~
+```
+##
+#### Skills
+- ⚙️ MVC <br>
+- 🔖 SCRUM <br>
+- 📒 UML diagrams <br>
+ #### Technologies
+- 🔵 PHP <br>
+- 🟤 MySQL <br>
+- 🟡 JavaScript <br>
+- 🟣 API's <br>
 
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=fabioVitorio&repo=divinoSabor_mvc"/>
