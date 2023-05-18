@@ -1,4 +1,4 @@
-### <p align='center'> ![logo3](https://github.com/fabioVitorio/divinoSabor_mvc/assets/109548564/f7edb2da-eb07-4ce3-8853-04eef0982a78) </p>
+### <p align='center'> <img src="https://github.com/fabioVitorio/divinoSabor_mvc/assets/109548564/f7edb2da-eb07-4ce3-8853-04eef0982a78" width="300"/> </p>
 <br>
 <p align='center'> Control system for opening and managing tickets and customers for a ceremonial buffet <br></p>
 
