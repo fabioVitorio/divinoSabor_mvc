@@ -23,8 +23,7 @@
   <a href="https://github.com/fabioVitorio">
 </div>
 
-##
-  
+## 💻 System - Employee
 ![img1](https://user-images.githubusercontent.com/109548564/235265237-81bacadc-e804-46f9-82c9-1b371b05271e.PNG)
 ##
 ![img2](https://user-images.githubusercontent.com/109548564/235265242-1a777526-29fb-4b55-8013-323287104d05.PNG)
@@ -34,5 +33,7 @@
 ![img4](https://user-images.githubusercontent.com/109548564/235265245-e23ba0e5-9fd2-4ba7-92ac-676cfb589f8d.PNG)
 ##
 ![img5](https://user-images.githubusercontent.com/109548564/235265246-ea145fa4-f212-4e58-a03b-603b377185ae.PNG)
-## 📄Diagrama Casos de Uso 
+## 📈 Report - Admin
+![Screenshot_1](https://github.com/fabioVitorio/divinoSabor_mvc/assets/109548564/d0cb115b-5ac3-4d36-9194-a7b42a89b27f) 
+## 📄Use Case Diagram
 ![CASOS DE USO drawio](https://user-images.githubusercontent.com/109548564/235265863-bf8adddf-6891-4032-8a5a-499c820b3e32.png)
